@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Computer",
+      "price":1000,
+      "image": "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mnej3tua-637909908281168286.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Earphones",
+        "price":100,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MV7N2?wid=1144&hei=1144&fmt=jpeg&qlt=95&.v=1551489688005"    
+    },
+    {
+        "id": 3,
+        "title": "Charger",
+        "price":150,
+        "image": "https://productimages.hepsiburada.net/s/22/375/9962593583154.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Printer",
+        "price":300,
+         "image":"https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HMJT2_GEO_CA?wid=890&hei=890&fmt=jpeg&qlt=95&.v=1545352296833"
+    },
+    {
+        "id": 5,
+        "title": "Speaker set",
+        "price":400,
+        "image":"https://sc04.alicdn.com/kf/Hd3ecffb7bd954576876aa3f9af92624eG.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Airfryer",
+        "price":600,
+        "image":"https://st2.myideasoft.com/idea/hy/24/myassets/products/268/67268-1-jpg.jpg?revision=1672411337"
+    },
+    {
+        "id": 7,
+        "title": "Coffee machine",
+        "price":"750",
+        "image":"https://cdn11.bigcommerce.com/s-dj46qhetxl/images/stencil/1280x1280/products/129792/294737/47a8610e3bdb40040bc3e66afb9a3ac8350a55f9__65869.1679108073.jpg?c=1"
+    },
+    {
+        "id": 8,
+        "title": "Vacuum cleaner",
+        "price":"350",
+        "image":"https://s1.kaercher-media.com/mam/12696200/mainproduct/205903/d0.jpg"
+    }
+
+]
